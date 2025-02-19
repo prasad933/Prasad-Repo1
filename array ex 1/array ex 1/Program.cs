@@ -20,7 +20,7 @@ namespace array_ex_1
             arr[6] = 400;
             Sum = arr[0] + arr[1] + arr[2] + arr[3] + arr[4] + arr[5] + arr[6];
             Console.WriteLine("The Sum is : " + Sum);
-            Console.WriteLine("Prasad");
+            
             Console.ReadKey();
         }
     }
